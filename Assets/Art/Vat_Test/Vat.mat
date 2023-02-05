@@ -64,11 +64,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Frame: 19.9
+    - _Frame: 0
     - _Num_frames: 96
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Scale: 2.58
+    - _Scale: 0.03
     - _Texture_width: 96
     - _VAT_Blend: 1
     m_Colors:
